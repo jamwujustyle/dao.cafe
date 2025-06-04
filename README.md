@@ -7,7 +7,7 @@ DAO Cafe is a decentralized platform that helps users create, register, and mana
 💰 Staking & Treasury Token staking mechanisms and treasury balance tracking
 🎯 Presale System Token presale functionality with transaction tracking
 📊 Forum Integration Discussion threads, replies, and community engagement
-🔒 Security Features Rate limiting, custom permissions, and blockchain validation
+🔒 Security Features Rate limiting, custom permissions, and blockchain validation.
 🛠 Tech Stack
 🔧 Backend Technologies
 
